@@ -1,0 +1,4 @@
+🔍 Yulu Bike Demand Analysis – EDA + Statistical Testing
+
+
+This case study dives into the rental patterns of a bike-sharing program using real-world data and statistical hypothesis testing. After thorough data cleaning and correlation analysis, I explored how weather, holidays, seasons, and working days affect rental counts. I applied inferential statistical methods—independent t-tests, ANOVA, Shapiro-Wilk, Levene’s test, and Chi-square tests—to assess demand variability across different conditions. Key takeaways include: weekday demand is higher than weekends, rental count varies significantly by season and weather, and weather conditions are dependent on seasonal patterns. This project showcases my ability to blend statistical rigor with business intuition to generate actionable insights—skills I aim to bring to any data-driven role.
